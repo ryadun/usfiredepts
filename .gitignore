@@ -1,0 +1,4 @@
+.Rproj.user
+*.xls*
+.Rhistory
+data-raw/*.txt

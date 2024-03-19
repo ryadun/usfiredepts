@@ -1,0 +1,28 @@
+Variable,Description
+FDID,Fire Department ID (assigned by state agencies and therefore not unique)
+Fire.dept.name,Fire Department Name
+HQ.addr1,Headquarters Address Line 1
+HQ.addr2,Headquarters Address Line 2
+HQ.city,Headquarters City
+HQ.state,Headquarters State
+HQ.zip,Headquarters Zip
+Mail.addr1,Mailing Address Line 1
+Mail.addr2,Mailing Address Line 2
+Mail.PO.box,Mailing Address PO Box
+Mail.city,Mailing Address City
+Mail.state,Mailing Address State
+Mail.zip,Mailing Address Zipcode
+HQ.phone,Headquarters Phone Number
+HQ.fax,Headquarters Fax Number
+County,County
+Dept.Type,Department Type
+Organization.Type,Organization Type
+Website,Website
+Number.Of.Stations,Number of Stations
+Active.Firefighters.Career,Number of Active Firefighters (Career)
+Active.Firefighters.Volunteer,Number of Active Firefighters (Volunteer)
+Active.Firefighters.Paid.per.Call,Number of Active Firefighters (Paid Per Call)
+Non.Firefighting.Civilian,Non-Firefighting Staff (Civilian)
+Non.Firefighting.Volunteer,Non-Firefighting Staff (Volunteer)
+Primary.agency.for.emergency.mgmt,TRUE/FALSE if the agency is the primary emergency management agency
+
